@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZhBkeLdEmuhxNgMx/lB1fjIcKXtpdoR0rCzOCzULrGg=",
+  "Source": "cargill.assessment.api",
+  "BasePath": "_content/cargill.assessment.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
